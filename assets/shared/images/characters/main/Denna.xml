@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Denna.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Denna Down0000" x="0" y="0" width="635" height="909" frameX="0" frameY="-39" frameWidth="635" frameHeight="948"/>
+	<SubTexture name="Denna Down0001" x="635" y="0" width="587" height="947" frameX="-26" frameY="0" frameWidth="635" frameHeight="948"/>
+	<SubTexture name="Denna Down0002" x="635" y="0" width="587" height="947" frameX="-26" frameY="0" frameWidth="635" frameHeight="948"/>
+	<SubTexture name="Denna Down0003" x="635" y="0" width="587" height="947" frameX="-26" frameY="0" frameWidth="635" frameHeight="948"/>
+	<SubTexture name="Denna Down0004" x="635" y="0" width="587" height="947" frameX="-26" frameY="0" frameWidth="635" frameHeight="948"/>
+	<SubTexture name="Denna Down Miss0000" x="0" y="0" width="635" height="909" frameX="0" frameY="-103" frameWidth="635" frameHeight="948"/>
+	<SubTexture name="Denna Down Miss0001" x="1222" y="0" width="573" height="1012" frameX="-37" frameY="0" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0002" x="1222" y="0" width="573" height="1012" frameX="-37" frameY="0" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0003" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0004" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0005" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0006" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0007" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0008" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0009" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0010" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0011" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0012" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0013" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0014" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0015" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0016" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0017" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0018" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Down Miss0019" x="1795" y="0" width="573" height="990" frameX="-37" frameY="-22" frameWidth="635" frameHeight="1012"/>
+	<SubTexture name="Denna Hey0000" x="2368" y="0" width="506" height="1044" frameX="-13" frameY="0" frameWidth="534" frameHeight="1044"/>
+	<SubTexture name="Denna Hey0001" x="2874" y="0" width="534" height="1008" frameX="0" frameY="-35" frameWidth="534" frameHeight="1044"/>
+	<SubTexture name="Denna Hey0002" x="2874" y="0" width="534" height="1008" frameX="0" frameY="-35" frameWidth="534" frameHeight="1044"/>
+	<SubTexture name="Denna Hey0003" x="2874" y="0" width="534" height="1008" frameX="0" frameY="-35" frameWidth="534" frameHeight="1044"/>
+	<SubTexture name="Denna Hey0004" x="2874" y="0" width="534" height="1008" frameX="0" frameY="-35" frameWidth="534" frameHeight="1044"/>
+	<SubTexture name="Denna Idle0000" x="3408" y="0" width="553" height="1009"/>
+	<SubTexture name="Denna Left0000" x="0" y="1044" width="636" height="1012" frameX="-23" frameY="0" frameWidth="659" frameHeight="1012"/>
+	<SubTexture name="Denna Left0001" x="636" y="1044" width="643" height="1012" frameX="0" frameY="0" frameWidth="659" frameHeight="1012"/>
+	<SubTexture name="Denna Left0002" x="636" y="1044" width="643" height="1012" frameX="0" frameY="0" frameWidth="659" frameHeight="1012"/>
+	<SubTexture name="Denna Left0003" x="636" y="1044" width="643" height="1012" frameX="0" frameY="0" frameWidth="659" frameHeight="1012"/>
+	<SubTexture name="Denna Left0004" x="636" y="1044" width="643" height="1012" frameX="0" frameY="0" frameWidth="659" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0000" x="0" y="1044" width="636" height="1012" frameX="-40" frameY="0" frameWidth="659" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0001" x="1279" y="1044" width="660" height="1012" frameX="0" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0002" x="1279" y="1044" width="660" height="1012" frameX="0" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0003" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0004" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0005" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0006" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0007" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0008" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0009" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0010" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0011" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0012" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0013" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0014" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0015" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0016" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0017" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0018" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Left Miss0019" x="1939" y="1044" width="663" height="1012" frameX="-12" frameY="0" frameWidth="676" frameHeight="1012"/>
+	<SubTexture name="Denna Right0000" x="2602" y="1044" width="675" height="1001" frameX="0" frameY="0" frameWidth="689" frameHeight="1001"/>
+	<SubTexture name="Denna Right0001" x="3277" y="1044" width="651" height="1001" frameX="-38" frameY="0" frameWidth="689" frameHeight="1001"/>
+	<SubTexture name="Denna Right0002" x="3277" y="1044" width="651" height="1001" frameX="-38" frameY="0" frameWidth="689" frameHeight="1001"/>
+	<SubTexture name="Denna Right0003" x="3277" y="1044" width="651" height="1001" frameX="-38" frameY="0" frameWidth="689" frameHeight="1001"/>
+	<SubTexture name="Denna Right0004" x="3277" y="1044" width="651" height="1001" frameX="-38" frameY="0" frameWidth="689" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0000" x="2602" y="1044" width="675" height="1001" frameX="-37" frameY="0" frameWidth="689" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0001" x="0" y="2056" width="707" height="1001" frameX="-13" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0002" x="0" y="2056" width="707" height="1001" frameX="-13" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0003" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0004" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0005" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0006" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0007" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0008" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0009" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0010" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0011" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0012" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0013" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0014" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0015" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0016" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0017" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0018" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Right Miss0019" x="707" y="2056" width="711" height="1001" frameX="0" frameY="0" frameWidth="720" frameHeight="1001"/>
+	<SubTexture name="Denna Up0000" x="1418" y="2056" width="545" height="1057" frameX="-17" frameY="0" frameWidth="580" frameHeight="1058"/>
+	<SubTexture name="Denna Up0001" x="1963" y="2056" width="580" height="1030" frameX="0" frameY="-28" frameWidth="580" frameHeight="1058"/>
+	<SubTexture name="Denna Up0002" x="1963" y="2056" width="580" height="1030" frameX="0" frameY="-28" frameWidth="580" frameHeight="1058"/>
+	<SubTexture name="Denna Up0003" x="1963" y="2056" width="580" height="1030" frameX="0" frameY="-28" frameWidth="580" frameHeight="1058"/>
+	<SubTexture name="Denna Up0004" x="1963" y="2056" width="580" height="1030" frameX="0" frameY="-28" frameWidth="580" frameHeight="1058"/>
+	<SubTexture name="Denna Up Miss0000" x="1418" y="2056" width="545" height="1057" frameX="-17" frameY="0" frameWidth="580" frameHeight="1058"/>
+	<SubTexture name="Denna Up Miss0001" x="2543" y="2056" width="579" height="978" frameX="0" frameY="-79" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0002" x="2543" y="2056" width="579" height="978" frameX="0" frameY="-79" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0003" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0004" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0005" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0006" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0007" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0008" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0009" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0010" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0011" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0012" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0013" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0014" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0015" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0016" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0017" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0018" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+	<SubTexture name="Denna Up Miss0019" x="3122" y="2056" width="579" height="1008" frameX="0" frameY="-49" frameWidth="579" frameHeight="1057"/>
+</TextureAtlas>

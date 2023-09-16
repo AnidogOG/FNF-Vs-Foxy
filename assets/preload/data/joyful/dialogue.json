@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hey you can't be here!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh well you wanna sing?"
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh wow I haven't sung in a while"
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But sure I can give it a try!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		}
+	]
+}

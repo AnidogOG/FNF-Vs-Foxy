@@ -1,0 +1,50 @@
+{
+	"position": [
+		-30,
+		-80
+	],
+	"dialogue_pos": "left",
+	"scale": 0.8,
+	"image": "Denna_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Stat",
+			"loop_name": "Talk"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Mad Stat",
+			"loop_name": "Mad Talk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Worried Talk",
+			"idle_name": "Worried Stat"
+		}
+	]
+}

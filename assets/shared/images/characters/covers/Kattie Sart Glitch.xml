@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kattie Sart Glitch.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="331" height="847" frameX="0" frameY="-44" frameWidth="331" frameHeight="892"/>
+	<SubTexture name="down0001" x="331" y="0" width="304" height="892" frameX="-11" frameY="0" frameWidth="331" frameHeight="892"/>
+	<SubTexture name="down0002" x="331" y="0" width="304" height="892" frameX="-11" frameY="0" frameWidth="331" frameHeight="892"/>
+	<SubTexture name="down0003" x="331" y="0" width="304" height="892" frameX="-11" frameY="0" frameWidth="331" frameHeight="892"/>
+	<SubTexture name="down0004" x="331" y="0" width="304" height="892" frameX="-11" frameY="0" frameWidth="331" frameHeight="892"/>
+	<SubTexture name="idle0000" x="635" y="0" width="304" height="907"/>
+	<SubTexture name="left0000" x="939" y="0" width="292" height="909" frameX="-6" frameY="0" frameWidth="304" frameHeight="909"/>
+	<SubTexture name="left0001" x="1231" y="0" width="304" height="900" frameX="0" frameY="-9" frameWidth="304" frameHeight="909"/>
+	<SubTexture name="left0002" x="1231" y="0" width="304" height="900" frameX="0" frameY="-9" frameWidth="304" frameHeight="909"/>
+	<SubTexture name="left0003" x="1231" y="0" width="304" height="900" frameX="0" frameY="-9" frameWidth="304" frameHeight="909"/>
+	<SubTexture name="left0004" x="1231" y="0" width="304" height="900" frameX="0" frameY="-9" frameWidth="304" frameHeight="909"/>
+	<SubTexture name="right0000" x="1535" y="0" width="374" height="925"/>
+	<SubTexture name="right0001" x="0" y="925" width="370" height="907" frameX="-2" frameY="-18" frameWidth="374" frameHeight="925"/>
+	<SubTexture name="right0002" x="0" y="925" width="370" height="907" frameX="-2" frameY="-18" frameWidth="374" frameHeight="925"/>
+	<SubTexture name="right0003" x="0" y="925" width="370" height="907" frameX="-2" frameY="-18" frameWidth="374" frameHeight="925"/>
+	<SubTexture name="right0004" x="0" y="925" width="370" height="907" frameX="-2" frameY="-18" frameWidth="374" frameHeight="925"/>
+	<SubTexture name="up0000" x="370" y="925" width="474" height="948" frameX="-20" frameY="0" frameWidth="517" frameHeight="948"/>
+	<SubTexture name="up0001" x="844" y="925" width="517" height="899" frameX="0" frameY="-49" frameWidth="517" frameHeight="948"/>
+	<SubTexture name="up0002" x="844" y="925" width="517" height="899" frameX="0" frameY="-49" frameWidth="517" frameHeight="948"/>
+	<SubTexture name="up0003" x="844" y="925" width="517" height="899" frameX="0" frameY="-49" frameWidth="517" frameHeight="948"/>
+	<SubTexture name="up0004" x="844" y="925" width="517" height="899" frameX="0" frameY="-49" frameWidth="517" frameHeight="948"/>
+</TextureAtlas>

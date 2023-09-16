@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Guitar",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Left Talk"
+		},
+		{
+			"offsets": [
+				2,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Down Talk"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Up Talk"
+		},
+		{
+			"offsets": [
+				-24,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Right Talk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/covers/Guitar Foxy",
+	"position": [
+		-120,
+		-310
+	],
+	"healthicon": "foxy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		127,
+		0
+	],
+	"camera_position": [
+		230,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

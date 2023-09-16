@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Denna Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Denna Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				119
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Denna Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				153,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Denna Right0"
+		},
+		{
+			"offsets": [
+				99,
+				92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Denna Left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/main/Denna",
+	"position": [
+		80,
+		40
+	],
+	"healthicon": "denna",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		72,
+		38
+	],
+	"camera_position": [
+		40,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

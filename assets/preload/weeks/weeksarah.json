@@ -1,0 +1,50 @@
+{
+	"storyName": "Get out while you still can...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "lostland",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weeksophie",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sarah",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dark",
+			"sarah",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Showdown",
+			"sarah",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Escape",
+			"sarah",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Sarah",
+	"hiddenUntilUnlocked": true
+}

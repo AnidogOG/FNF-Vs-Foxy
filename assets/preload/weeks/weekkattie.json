@@ -1,0 +1,50 @@
+{
+	"storyName": "Cat Got Your Tongue?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Out In Space",
+			"kattie",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Down Hill Escalation",
+			"kattie",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Galaxy Hopping",
+			"kattie",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"kattie",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

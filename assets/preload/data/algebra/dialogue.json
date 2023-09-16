@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ogdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey there!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ogdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome to my school!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ogdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "People don't visit me that often, so I'm glad you're here!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ogdave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't worry about my disability, I can get around myself"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		}
+	]
+}

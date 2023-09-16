@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "What the hell?"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "What are you doing here?"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What are YOU doing here?"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Are you fucking serious?"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "You need to leave"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "You're not allowed here"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ok, but first you have to beat me in a few songs"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then I'll be out of your fur"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ugh Fine....."
+		}
+	]
+}

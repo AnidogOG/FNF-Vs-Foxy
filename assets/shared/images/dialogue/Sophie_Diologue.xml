@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sophie_Diologue.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stat0000" x="0" y="0" width="443" height="572"/>
+	<SubTexture name="Stat0001" x="0" y="0" width="443" height="572"/>
+	<SubTexture name="Stat0002" x="0" y="0" width="443" height="572"/>
+	<SubTexture name="Stat0003" x="0" y="0" width="443" height="572"/>
+	<SubTexture name="Stat0004" x="0" y="0" width="443" height="572"/>
+	<SubTexture name="Talk0000" x="443" y="0" width="443" height="572"/>
+	<SubTexture name="Talk0001" x="443" y="0" width="443" height="572"/>
+	<SubTexture name="Talk0002" x="0" y="0" width="443" height="572"/>
+	<SubTexture name="Talk0003" x="0" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Stat0000" x="1329" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Stat0001" x="1329" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Stat0002" x="1329" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Stat0003" x="1329" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Stat0004" x="1329" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Talk0000" x="886" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Talk0001" x="886" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Talk0002" x="1329" y="0" width="443" height="572"/>
+	<SubTexture name="Worried Talk0003" x="1329" y="0" width="443" height="572"/>
+</TextureAtlas>

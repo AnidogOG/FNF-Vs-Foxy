@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tunnel Denna.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="1173" height="703" frameX="0" frameY="-424" frameWidth="1173" frameHeight="1127"/>
+	<SubTexture name="Down0001" x="0" y="0" width="1173" height="703" frameX="0" frameY="-424" frameWidth="1173" frameHeight="1127"/>
+	<SubTexture name="Down0002" x="1173" y="0" width="1011" height="1097" frameX="-121" frameY="0" frameWidth="1173" frameHeight="1127"/>
+	<SubTexture name="Down0003" x="1173" y="0" width="1011" height="1097" frameX="-121" frameY="0" frameWidth="1173" frameHeight="1127"/>
+	<SubTexture name="Down0004" x="1173" y="0" width="1011" height="1097" frameX="-121" frameY="0" frameWidth="1173" frameHeight="1127"/>
+	<SubTexture name="Idle0000" x="2184" y="0" width="1085" height="977" frameX="0" frameY="-300" frameWidth="1085" frameHeight="1277"/>
+	<SubTexture name="Idle0001" x="2184" y="0" width="1085" height="977" frameX="0" frameY="-300" frameWidth="1085" frameHeight="1277"/>
+	<SubTexture name="Idle0002" x="3269" y="0" width="1033" height="1109" frameX="-32" frameY="-141" frameWidth="1085" frameHeight="1277"/>
+	<SubTexture name="Idle0003" x="3269" y="0" width="1033" height="1109" frameX="-32" frameY="-141" frameWidth="1085" frameHeight="1277"/>
+	<SubTexture name="Idle0004" x="4302" y="0" width="1007" height="1232" frameX="-44" frameY="0" frameWidth="1085" frameHeight="1277"/>
+	<SubTexture name="Idle0005" x="4302" y="0" width="1007" height="1232" frameX="-44" frameY="0" frameWidth="1085" frameHeight="1277"/>
+	<SubTexture name="Left0000" x="5309" y="0" width="1718" height="1312"/>
+	<SubTexture name="Left0001" x="5309" y="0" width="1718" height="1312"/>
+	<SubTexture name="Left0002" x="0" y="1312" width="1255" height="1119" frameX="-403" frameY="-55" frameWidth="1718" frameHeight="1312"/>
+	<SubTexture name="Left0003" x="0" y="1312" width="1255" height="1119" frameX="-403" frameY="-55" frameWidth="1718" frameHeight="1312"/>
+	<SubTexture name="Left0004" x="0" y="1312" width="1255" height="1119" frameX="-403" frameY="-55" frameWidth="1718" frameHeight="1312"/>
+	<SubTexture name="Right0000" x="1255" y="1312" width="1685" height="1353" frameX="-157" frameY="0" frameWidth="1842" frameHeight="1406"/>
+	<SubTexture name="Right0001" x="1255" y="1312" width="1685" height="1353" frameX="-157" frameY="0" frameWidth="1842" frameHeight="1406"/>
+	<SubTexture name="Right0002" x="2940" y="1312" width="1480" height="1268" frameX="0" frameY="-138" frameWidth="1842" frameHeight="1406"/>
+	<SubTexture name="Right0003" x="2940" y="1312" width="1480" height="1268" frameX="0" frameY="-138" frameWidth="1842" frameHeight="1406"/>
+	<SubTexture name="Right0004" x="2940" y="1312" width="1480" height="1268" frameX="0" frameY="-138" frameWidth="1842" frameHeight="1406"/>
+	<SubTexture name="Up0000" x="4420" y="1312" width="1528" height="1786" frameX="-56" frameY="0" frameWidth="1614" frameHeight="1852"/>
+	<SubTexture name="Up0001" x="4420" y="1312" width="1528" height="1786" frameX="-56" frameY="0" frameWidth="1614" frameHeight="1852"/>
+	<SubTexture name="Up0002" x="5948" y="1312" width="1614" height="1517" frameX="0" frameY="-335" frameWidth="1614" frameHeight="1852"/>
+	<SubTexture name="Up0003" x="5948" y="1312" width="1614" height="1517" frameX="0" frameY="-335" frameWidth="1614" frameHeight="1852"/>
+	<SubTexture name="Up0004" x="5948" y="1312" width="1614" height="1517" frameX="0" frameY="-335" frameWidth="1614" frameHeight="1852"/>
+</TextureAtlas>

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Woah....."
+		},
+		{
+			"sound": "gfd",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Where are we?"
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How did you get Here?!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh..."
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you have to get out of here before you hurt your selfs!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ok, but only if you battle us in a song"
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine..."
+		}
+	]
+}

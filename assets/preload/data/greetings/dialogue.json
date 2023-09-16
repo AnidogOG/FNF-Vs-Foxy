@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh hey there!"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What are you doing in here?"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh hello!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I wanted to know if you want to sing with me."
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Sing?"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hah!"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Good one!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh..... ok."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Anyway lets get it!"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait What?"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I said i didn't want to sing!"
+		}
+	]
+}

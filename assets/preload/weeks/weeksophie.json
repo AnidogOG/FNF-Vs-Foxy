@@ -1,0 +1,50 @@
+{
+	"storyName": "What the dog doin'?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mountainview",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekfoxy",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sophie",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Obsessed",
+			"sophie",
+			[
+				46,
+				233,
+				255
+			]
+		],
+		[
+			"Seeking",
+			"sophie",
+			[
+				46,
+				233,
+				255
+			]
+		],
+		[
+			"Cooldown",
+			"sophie",
+			[
+				46,
+				233,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Sophie",
+	"hiddenUntilUnlocked": false
+}

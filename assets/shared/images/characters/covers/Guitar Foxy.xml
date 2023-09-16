@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Guitar Foxy.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Guitar0000" x="0" y="0" width="758" height="1271" frameX="0" frameY="-44" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Guitar0001" x="0" y="0" width="758" height="1271" frameX="0" frameY="-44" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Guitar0002" x="758" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Guitar0003" x="758" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Guitar0004" x="758" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Guitar0005" x="758" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Talk0000" x="1493" y="0" width="758" height="1271" frameX="0" frameY="-44" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Talk0001" x="1493" y="0" width="758" height="1271" frameX="0" frameY="-44" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Talk0002" x="2251" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Talk0003" x="2251" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Talk0004" x="2251" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Down Talk0005" x="2251" y="0" width="735" height="1315" frameX="-8" frameY="0" frameWidth="758" frameHeight="1315"/>
+	<SubTexture name="Idle0000" x="2986" y="0" width="735" height="1316" frameX="0" frameY="-4" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0001" x="3721" y="0" width="742" height="1316" frameX="-4" frameY="-4" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0002" x="4463" y="0" width="746" height="1313" frameX="-7" frameY="-7" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0003" x="5209" y="0" width="751" height="1317" frameX="-9" frameY="-3" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0004" x="5960" y="0" width="756" height="1320" frameX="-12" frameY="0" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0005" x="5960" y="0" width="756" height="1320" frameX="-12" frameY="0" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0006" x="5209" y="0" width="751" height="1317" frameX="-9" frameY="-3" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0007" x="4463" y="0" width="746" height="1313" frameX="-7" frameY="-7" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0008" x="3721" y="0" width="742" height="1316" frameX="-4" frameY="-4" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Idle0009" x="2986" y="0" width="735" height="1316" frameX="0" frameY="-4" frameWidth="768" frameHeight="1320"/>
+	<SubTexture name="Left Guitar0000" x="6716" y="0" width="744" height="1327" frameX="0" frameY="0" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Guitar0001" x="6716" y="0" width="744" height="1327" frameX="0" frameY="0" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Guitar0002" x="0" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Guitar0003" x="0" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Guitar0004" x="0" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Guitar0005" x="0" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Talk0000" x="763" y="1327" width="744" height="1327" frameX="0" frameY="0" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Talk0001" x="763" y="1327" width="744" height="1327" frameX="0" frameY="0" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Talk0002" x="1507" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Talk0003" x="1507" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Talk0004" x="1507" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Left Talk0005" x="1507" y="1327" width="763" height="1324" frameX="-17" frameY="-3" frameWidth="780" frameHeight="1327"/>
+	<SubTexture name="Right Guitar0000" x="2270" y="1327" width="703" height="1300" frameX="-37" frameY="-8" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Guitar0001" x="2270" y="1327" width="703" height="1300" frameX="-37" frameY="-8" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Guitar0002" x="2973" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Guitar0003" x="2973" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Guitar0004" x="2973" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Guitar0005" x="3697" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Talk0000" x="4421" y="1327" width="703" height="1300" frameX="-37" frameY="-8" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Talk0001" x="4421" y="1327" width="703" height="1300" frameX="-37" frameY="-8" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Talk0002" x="5124" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Talk0003" x="5124" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Talk0004" x="5124" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Right Talk0005" x="5124" y="1327" width="724" height="1308" frameX="0" frameY="0" frameWidth="740" frameHeight="1308"/>
+	<SubTexture name="Up Guitar0000" x="5848" y="1327" width="702" height="1366" frameX="-15" frameY="0" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Guitar0001" x="5848" y="1327" width="702" height="1366" frameX="-15" frameY="0" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Guitar0002" x="6550" y="1327" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Guitar0003" x="6550" y="1327" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Guitar0004" x="6550" y="1327" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Guitar0005" x="6550" y="1327" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Talk0000" x="7267" y="1327" width="702" height="1366" frameX="-15" frameY="0" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Talk0001" x="7267" y="1327" width="702" height="1366" frameX="-15" frameY="0" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Talk0002" x="0" y="2693" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Talk0003" x="0" y="2693" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Talk0004" x="0" y="2693" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+	<SubTexture name="Up Talk0005" x="0" y="2693" width="717" height="1326" frameX="0" frameY="-40" frameWidth="717" frameHeight="1366"/>
+</TextureAtlas>

@@ -1,0 +1,44 @@
+{
+	"storyName": "Sly Fox",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "grassland",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"foxy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Joyful",
+			"foxy-gay",
+			[
+				255,
+				160,
+				0
+			]
+		],
+		[
+			"Uneased",
+			"foxy",
+			[
+				215,
+				120,
+				0
+			]
+		],
+		[
+			"Hatred",
+			"foxy",
+			[
+				255,
+				160,
+				0
+			]
+		]
+	],
+	"weekName": "Week Foxy"
+}

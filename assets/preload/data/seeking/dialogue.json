@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh wow you did great!"
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Really? I don't think it was That good"
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think I might wanna go a second round!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Really?"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ok!"
+		}
+	]
+}

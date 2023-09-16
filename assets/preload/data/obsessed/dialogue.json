@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey!"
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh hey.... What are you doing here?"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I wanted to see if you were willing to battle me in a few songs!"
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Umm.... sure"
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't really sing much but... I can do my best!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		}
+	]
+}

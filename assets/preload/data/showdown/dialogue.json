@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "God Damn It!"
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you such an idiot!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "your only saying that because you lost"
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you don't under stand..."
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you're gonna corrupt this world and everyone here will die because of you!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what?"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Whatever you're just being stupid!"
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You Fucking Idiot!"
+		}
+	]
+}

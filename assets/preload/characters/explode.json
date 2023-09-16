@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "die"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/covers/badai_explode",
+	"position": [
+		60,
+		140
+	],
+	"healthicon": "denna-3d",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		67,
+		50
+	],
+	"camera_position": [
+		230,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

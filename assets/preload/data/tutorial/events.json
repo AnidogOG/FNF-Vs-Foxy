@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": null,
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				27600,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"3"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"3"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"3",
+						"gf-sings"
+					],
+					[
+						"Change Character",
+						"1",
+						"gf-sings"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Tutorial"
+	}
+}

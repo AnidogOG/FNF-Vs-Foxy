@@ -1,0 +1,38 @@
+{
+	"position": [
+		10,
+		-120
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 0.799999999999999,
+	"image": "Fox_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Stat",
+			"loop_name": "Talk"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Mad Stat",
+			"loop_name": "Mad Talk"
+		}
+	]
+}

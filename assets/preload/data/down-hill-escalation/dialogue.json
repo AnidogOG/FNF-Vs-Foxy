@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ok fine you win this round but I-"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Come on just admit that you lost!"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Uhhh...... Dude i was literally telling you that-"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hah! I knew it you're just a big loser!"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "Kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Oh I swear to god when i get my hands-"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't you mean you're paws?"
+		},
+		{
+			"sound": "kd",
+			"speed": 0.05,
+			"portrait": "kattie",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "SHUT THE FUCK UP!!!"
+		}
+	]
+}

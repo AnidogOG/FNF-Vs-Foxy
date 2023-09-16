@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ok the song is over, we can take a break now."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No i want to sing more!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It's really fun!"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Are you kidding me?"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I told you i don't want to do this."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Whatever let's get to the next song!"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "NO!!!"
+		}
+	]
+}

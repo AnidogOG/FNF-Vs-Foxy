@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				11
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-55
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Alt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				50
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Alt Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-21,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Alt Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/covers/Sugar Foxy",
+	"position": [
+		-150,
+		-80
+	],
+	"healthicon": "sugar-foxy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		127,
+		0
+	],
+	"camera_position": [
+		80,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

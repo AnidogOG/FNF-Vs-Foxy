@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why Cant You Just Leave Already!"
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You Are Ruining Everything!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "whatever man you're a fuckin idiot!"
+		},
+		{
+			"sound": "sad",
+			"speed": 0.05,
+			"portrait": "sarah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " IM GONNA KILL YOU MOTHER FUCKER!!!!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh Oh..."
+		}
+	]
+}

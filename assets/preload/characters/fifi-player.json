@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				39,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				16,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				30,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				80,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/iykyk/Fifi",
+	"position": [
+		-20,
+		-440
+	],
+	"healthicon": "fifi",
+	"flip_x": false,
+	"healthbar_colors": [
+		130,
+		130,
+		130
+	],
+	"camera_position": [
+		-40,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

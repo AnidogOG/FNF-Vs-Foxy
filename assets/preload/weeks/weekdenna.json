@@ -1,0 +1,50 @@
+{
+	"storyName": "Warping Time",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "denna",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"denna",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Greetings",
+			"denna",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Encounter",
+			"denna",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Good Ending",
+			"denna",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Denna",
+	"hiddenUntilUnlocked": false
+}

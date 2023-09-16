@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sarah_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SarahStat0000" x="0" y="0" width="282" height="458"/>
+	<SubTexture name="SarahTalk0000" x="282" y="0" width="280" height="460" frameX="-2" frameY="0" frameWidth="282" frameHeight="460"/>
+	<SubTexture name="SarahTalk0001" x="282" y="0" width="280" height="460" frameX="-2" frameY="0" frameWidth="282" frameHeight="460"/>
+	<SubTexture name="SarahTalk0002" x="0" y="0" width="282" height="458" frameX="0" frameY="-2" frameWidth="282" frameHeight="458"/>
+	<SubTexture name="SarahTalk0003" x="0" y="0" width="282" height="458" frameX="0" frameY="-2" frameWidth="282" frameHeight="458"/>
+	<SubTexture name="SarahTalk0004" x="0" y="0" width="282" height="458" frameX="0" frameY="-2" frameWidth="282" frameHeight="458"/>
+</TextureAtlas>

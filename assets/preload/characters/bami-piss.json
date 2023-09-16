@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				17,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				5,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				128,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				31,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-22,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "smash1",
+			"loop": false,
+			"name": "Smash 1"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "smash2",
+			"loop": false,
+			"name": "Smash 2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/funny/Apple Bami",
+	"position": [
+		-20,
+		100
+	],
+	"healthicon": "bami-piss",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		205,
+		9
+	],
+	"camera_position": [
+		70,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

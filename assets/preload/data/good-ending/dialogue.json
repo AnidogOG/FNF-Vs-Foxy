@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ok....."
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You know what....."
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I kinda like this....."
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "It's fun to say the least....."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I knew you would like it!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyway....."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are we done?"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "How about we do one more?"
+		},
+		{
+			"sound": "dd",
+			"speed": 0.05,
+			"portrait": "denna",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Just for fun."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok sure!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Let's do it!"
+		}
+	]
+}

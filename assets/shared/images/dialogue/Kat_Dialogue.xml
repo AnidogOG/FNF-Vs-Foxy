@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kat_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stat0000" x="0" y="0" width="470" height="641"/>
+	<SubTexture name="Stat0001" x="0" y="0" width="470" height="641"/>
+	<SubTexture name="Stat0002" x="0" y="0" width="470" height="641"/>
+	<SubTexture name="Stat0003" x="0" y="0" width="470" height="641"/>
+	<SubTexture name="Stat Mad0000" x="470" y="0" width="470" height="641"/>
+	<SubTexture name="Stat Mad0001" x="470" y="0" width="470" height="641"/>
+	<SubTexture name="Stat Mad0002" x="470" y="0" width="470" height="641"/>
+	<SubTexture name="Stat Mad0003" x="470" y="0" width="470" height="641"/>
+	<SubTexture name="Talk0000" x="940" y="0" width="470" height="641"/>
+	<SubTexture name="Talk0001" x="940" y="0" width="470" height="641"/>
+	<SubTexture name="Talk0002" x="0" y="0" width="470" height="641"/>
+	<SubTexture name="Talk0003" x="0" y="0" width="470" height="641"/>
+	<SubTexture name="Talk Mad0000" x="1410" y="0" width="470" height="641"/>
+	<SubTexture name="Talk Mad0001" x="1410" y="0" width="470" height="641"/>
+	<SubTexture name="Talk Mad0002" x="470" y="0" width="470" height="641"/>
+	<SubTexture name="Talk Mad0003" x="470" y="0" width="470" height="641"/>
+</TextureAtlas>

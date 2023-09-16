@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tunnel Fifi.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN0000" x="0" y="0" width="772" height="915"/>
+	<SubTexture name="DOWN0001" x="772" y="0" width="772" height="915"/>
+	<SubTexture name="DOWN0002" x="772" y="0" width="772" height="915"/>
+	<SubTexture name="DOWN0003" x="772" y="0" width="772" height="915"/>
+	<SubTexture name="DOWN0004" x="772" y="0" width="772" height="915"/>
+	<SubTexture name="IDLE0000" x="1544" y="0" width="772" height="922"/>
+	<SubTexture name="LEFT0000" x="2316" y="0" width="773" height="927"/>
+	<SubTexture name="LEFT0001" x="3089" y="0" width="773" height="927"/>
+	<SubTexture name="LEFT0002" x="3089" y="0" width="773" height="927"/>
+	<SubTexture name="LEFT0003" x="3089" y="0" width="773" height="927"/>
+	<SubTexture name="LEFT0004" x="3089" y="0" width="773" height="927"/>
+	<SubTexture name="RIGHT0000" x="0" y="927" width="772" height="933"/>
+	<SubTexture name="RIGHT0001" x="772" y="927" width="772" height="933"/>
+	<SubTexture name="RIGHT0002" x="772" y="927" width="772" height="933"/>
+	<SubTexture name="RIGHT0003" x="772" y="927" width="772" height="933"/>
+	<SubTexture name="RIGHT0004" x="772" y="927" width="772" height="933"/>
+	<SubTexture name="UP0000" x="1544" y="927" width="773" height="915"/>
+	<SubTexture name="UP0001" x="2317" y="927" width="773" height="915"/>
+	<SubTexture name="UP0002" x="2317" y="927" width="773" height="915"/>
+	<SubTexture name="UP0003" x="2317" y="927" width="773" height="915"/>
+	<SubTexture name="UP0004" x="2317" y="927" width="773" height="915"/>
+</TextureAtlas>

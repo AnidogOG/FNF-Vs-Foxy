@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Denna Idle"
+		},
+		{
+			"offsets": [
+				185,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Denna Left0"
+		},
+		{
+			"offsets": [
+				146,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Denna Down0"
+		},
+		{
+			"offsets": [
+				138,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Denna Up0"
+		},
+		{
+			"offsets": [
+				149,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Denna Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				93
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Denna Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				92
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Denna Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				120
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Denna Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				86
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Denna Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Denna Hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/main/Denna",
+	"position": [
+		120,
+		40
+	],
+	"healthicon": "denna",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		72,
+		38
+	],
+	"camera_position": [
+		120,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

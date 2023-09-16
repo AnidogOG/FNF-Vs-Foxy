@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ok...."
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I see how it is...."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What do you mean?"
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "You think you can just walk around thinking you can do whatever you want huh?"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What are you talking about?"
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Shut up!"
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I'll Fucking kill you Asshole!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Whatever dude you're just acting stupid"
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "You know what...."
+		},
+		{
+			"sound": "fd",
+			"speed": 0.05,
+			"portrait": "foxy",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Fuck You!"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Holy Shit....."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That was really intense....."
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh sorry"
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I guess I got a little too into it heh"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh....."
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Should we go a little slower this time?"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That last song really wore me out....."
+		},
+		{
+			"sound": "sd",
+			"speed": 0.05,
+			"portrait": "sophie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ya sure, that sounds great!"
+		},
+		{
+			"sound": "bfd",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ok let's Go!"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"position": [
+		90,
+		10
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.1,
+	"image": "Sophie_Diologue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Stat",
+			"loop_name": "Talk"
+		},
+		{
+			"loop_name": "Worried Talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Worried Stat",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
