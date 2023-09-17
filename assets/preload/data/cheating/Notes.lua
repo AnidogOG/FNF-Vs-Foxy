@@ -3,7 +3,7 @@ local anglevar = 12;
 function onStartCountdown()
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		if not getPropertyFromGroup('unspawnNotes', i, 'mustPress') then
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'NOTE_assets_D&B'); --Change texture
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'NOTES/NOTE_assets_D&B'); --Change texture
 			setPropertyFromGroup('unspawnNotes', i, 'antialiasing', false)
 		end
 	end
@@ -14,7 +14,7 @@ function onUpdate(elapsed)
 	health = getProperty('health')
 	if health >= 0 then
 		for i=0,4,1 do
-			setPropertyFromGroup('opponentStrums', i, 'texture', 'NOTE_assets_D&B')
+			setPropertyFromGroup('opponentStrums', i, 'texture', 'NOTES/NOTE_assets_D&B')
 			setPropertyFromGroup('opponentStrums', i, 'antialiasing', false)
 		end
 	end
