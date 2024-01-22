@@ -59,15 +59,15 @@ class FreeplayState extends MusicBeatState
 				case 'main':
 					addWeek(['Joyful', 'Uneased', 'Hatred', 'Obsessed', 'Seeking', 'Cooldown', 'Dark', 'Showdown', 'Escape', 'Greetings', 'Encounter', 'Good Ending', 'Out In Space', 'Down Hill Escalation', 'Galaxy Hopping'], 0, 0xff00c3ff, ['foxy-gay', 'foxy', 'foxy', 'sophie', 'sophie', 'sophie', 'sarah', 'sarah', 'sarah', 'denna', 'denna', 'denna', 'kattie', 'kattie', 'kattie']);
 				case 'extra':
-					addWeek(['Avoidance', 'Above And Beyond', 'Bubble Gum', 'Chuckled', 'Denna', 'Double Trouble', 'Descenders', 'Dilemma', 'Funner', 'Forgotten', 'Heaven', 'Jealous', 'Lost', 'Lovers', 'Lunar Harmony', 'Mystery', 'Outcast', 'Pullover', 'Rabid', 'Stardust', 'The Beginning', 'Trickery', 'Travelers Encounter', 'United', 'Upon The Stars', 'Who\'s That', 'What\'s It To You', 'Warrior'], 0, 0xff00c3ff, ['diego', 'fozghon', 'allison', 'sophie', 'denna', 'him', 'sarah',  'denna', 'dinksie', 'kattie', 'foxy-gay', 'catherine', 'fozghon', 'jamie-cute', 'luna', 'dark', 'sarah', 'gf-furry', 'sophie', 'dinksie', 'dog', 'foxy-hide', 'pico', 'foxy-gay', 'kattie', 'bf-pixel', 'jack', 'tankman']);
+					addWeek(['Avoidance', 'Above And Beyond', 'Bubble Gum', 'Beware', 'Denna', 'Double Trouble', 'Descenders', 'Dilemma', 'Dinner Time!', 'Funner', 'Forgotten', 'Heaven', 'Jealous', 'Jingle', 'Lost', 'Lovers', 'Lunar Harmony', 'Mystery', 'Outcast', 'Playful', 'Pullover', 'Rabid', 'Stardust', 'Trickery', 'Travelers Encounter', 'United', 'Upon The Stars', 'Who\'s That', 'What\'s It To You', 'Warrior'], 0, 0xff00c3ff, ['diego', 'fozghon', 'allison', 'dog', 'denna', 'him', 'sarah',  'denna', 'dinner-doggo', 'dinksie', 'kattie', 'foxy-gay', 'catherine', 'foxy-gay', 'fozghon', 'jamie-cute', 'luna', 'betty', 'sarah', 'sophie', 'gf-furry', 'sophie', 'dinksie-golden', 'foxy-hide', 'pico', 'foxy-gay', 'kattie', 'bf-pixel', 'jack', 'tankman']);
 				case 'funny':
 					addWeek(['Chill', 'Kitten', 'Cheteetetettttttt', 'Forever Dvae', 'Apple', 'Lolers'], 0, 0xff00c3ff, ['bami', 'kat', 'denna', 'dvae', 'banwho', 'foxy-gay']);
 				case 'if you know you know':
-				    addWeek(['Lustful', 'Multiversal', 'Potential', 'Gacha!', 'Pretty Boy', 'Deranged Kisser'], 0, 0xff00c3ff, ['fifi', 'yuki', 'kattie-old', 'gacha-foxy', 'reggie', 'boykisser']);
+				    addWeek(['Copycat', 'Lustful', 'Multiversal', 'Potential', 'Gacha!', 'Pretty Boy', 'Deranged Kisser', 'Restored'], 0, 0xff00c3ff, ['joshua', 'fifi', 'yuki', 'kattie-old', 'gacha-foxy', 'reggie', 'boykisser', 'foxy-gay']);
 				case 'base':
 				    addWeek(['Tutorial'], 0, 0xff00c3ff, ['gf']);
 				case 'covers':
-				    addWeek(['Atrocity', 'Algebra', 'Badcorn', 'Casanova', 'Cheating', 'Consternation', 'Cuberoot', 'Endless', 'Faucet', 'Guns', 'Furiosity', 'Gigavolt', 'Glamrock', 'Hairball', 'High', 'Insanity', 'Left Unchecked', 'Lesson', 'Mine', 'Monochrome', 'Madness', 'Milk', 'Nyaw', 'Parish', 'Sky', 'Sage', 'Sugar Rush', 'Sart Producer', 'Triple Trouble', 'Tug O War', 'Unhinged', 'Vehement', 'Winter Horrorland', 'Wireframe', 'Welcome', 'Wife Forever'], 0, 0xff00c3ff, ['denna', 'foxy-algebra', 'denna', 'foxy', 'sarah-cheater', 'yuki', 'diego', 'sarah-2d', 'luna', 'yuki', 'foxy-insane', 'sarah-2d', 'yuki', 'kattie', 'fifi', 'sophie', 'denna-scared', 'foxy-gay', 'denna-3d', 'sarah', 'sophie', 'denna', 'kattie', 'kattie', 'fifi', 'catherine', 'sugar-foxy', 'kattie-scary', 'foxy-hide', 'sophie', 'kattie-crazy', 'foxy', 'yuki', 'kattie-metal-3d', 'luna', 'sophie']);
+				    addWeek(['Atrocity', 'Badcorn', 'Casanova', 'Combi Combo', 'Cookies', 'Cuberoot', 'Deformation', 'Disability', 'Doggydogus', 'Endless', 'Eggnog', 'Faker', 'Faucet', 'Furiosity', 'Fight Or Flight', 'Gigavolt', 'Glamrock', 'Golden', 'Hairball', 'k.o.u', 'Kaio Ken', 'Left Unchecked', 'Lesson', 'Metaphysical', 'Mine', 'Monochrome', 'Onslaught','Parish', 'Peanut Vendor', 'Rano', 'Ruckus', 'Scrambled', 'Sky', 'Shredder', 'Sage', 'Sart Producer', 'Stress',  'Triple Trouble', 'The Big Dingle', 'Thunderstorm', 'Tug O War', 'Unbeatable', 'Unhinged', 'Unlikely Rivals', 'Vehement', 'Wireframe', 'Winter Horrorland', 'Withered', 'Welcome',], 0, 0xff00c3ff, ['denna', 'denna', 'foxy', 'him', 'sophie-cookie', 'diego', 'sophie-hide', 'foxy-disability', 'denna', 'sarah-2d', 'kattie-x-jack', 'fake-foxy', 'luna', 'foxy-insane', 'kattie-scary', 'sarah-2d', 'yuki', 'dinksie-golden', 'kattie', 'denna', 'foxy-gay', 'denna-scared', 'foxy-gay', 'dinksie', 'denna-3d', 'sarah', 'betty', 'kattie', 'yuki', 'fifi', 'banwho', 'fifi-omelette', 'fifi', 'foxy-gay', 'catherine', 'kattie-scary', 'yuki', 'foxy-hide', 'picksie', 'kat', 'sophie', 'foxy-unbeatable', 'kattie-crazy', 'tankman', 'foxy', 'kattie-metal-3d', 'yuki', 'foxy', 'luna',]);
 			};
 
 		Paths.clearStoredMemory();
@@ -118,7 +118,7 @@ class FreeplayState extends MusicBeatState
 			}
 		}*/
 
-		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
+		bg = new FlxSprite().loadGraphic(Paths.image('menuWhite'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
 		bg.screenCenter();

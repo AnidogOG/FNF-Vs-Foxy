@@ -28,11 +28,9 @@ function onCreate()
 	addAnimationByPrefix('tankRolling', 'idle', 'BG tank w lighting', 24, true);
 	setScrollFactor('tankRolling', 0.5, 0.5);
 
-	makeLuaSprite('tankGround', 'WEEK7/tankGround', -420, -150);
+	makeLuaSprite('tankGround', 'WEEK7/tankGround', -420, -250);
 	scaleObject('tankGround', 1.15, 1.15);
 	
-	-- those are only loaded if you have Low quality turned off, to decrease loading times and memory
-	if not lowQuality then
 		makeLuaSprite('tankClouds', 'WEEK7/tankClouds', getRandomInt(-700, -100), getRandomInt(-20, 20));
 		setScrollFactor('tankClouds', 0.1, 0.1);
 		setProperty('tankClouds.velocity.x', getRandomInt(5, 15));
@@ -48,7 +46,6 @@ function onCreate()
 		makeAnimatedLuaSprite('smokeRight', 'WEEK7/smokeRight', 1100, -100);
 		addAnimationByPrefix('smokeRight', 'idle', 'SmokeRight');
 		setScrollFactor('smokeRight', 0.4, 0.4);
-	end
 
 	addLuaSprite('tankSky', false);
 	addLuaSprite('tankClouds', false);

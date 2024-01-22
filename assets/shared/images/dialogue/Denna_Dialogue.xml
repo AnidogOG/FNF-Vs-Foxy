@@ -2,28 +2,28 @@
 <TextureAtlas imagePath="Denna_Dialogue.png">
 	<!-- Created with Adobe Animate version 22.0.3.179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Mad Stat0000" x="553" y="0" width="553" height="743"/>
-	<SubTexture name="Mad Stat0001" x="553" y="0" width="553" height="743"/>
-	<SubTexture name="Mad Stat0002" x="553" y="0" width="553" height="743"/>
-	<SubTexture name="Mad Stat0003" x="553" y="0" width="553" height="743"/>
-	<SubTexture name="Mad Talk0000" x="0" y="0" width="553" height="743"/>
-	<SubTexture name="Mad Talk0001" x="0" y="0" width="553" height="743"/>
-	<SubTexture name="Mad Talk0002" x="553" y="0" width="553" height="743"/>
-	<SubTexture name="Mad Talk0003" x="553" y="0" width="553" height="743"/>
-	<SubTexture name="Stat0000" x="1106" y="0" width="553" height="743"/>
-	<SubTexture name="Stat0001" x="1106" y="0" width="553" height="743"/>
-	<SubTexture name="Stat0002" x="1106" y="0" width="553" height="743"/>
-	<SubTexture name="Stat0003" x="1106" y="0" width="553" height="743"/>
-	<SubTexture name="Talk0000" x="0" y="743" width="553" height="743"/>
-	<SubTexture name="Talk0001" x="0" y="743" width="553" height="743"/>
-	<SubTexture name="Talk0002" x="1106" y="0" width="553" height="743"/>
-	<SubTexture name="Talk0003" x="1106" y="0" width="553" height="743"/>
-	<SubTexture name="Worried Stat0000" x="1106" y="743" width="553" height="743"/>
-	<SubTexture name="Worried Stat0001" x="1106" y="743" width="553" height="743"/>
-	<SubTexture name="Worried Stat0002" x="1106" y="743" width="553" height="743"/>
-	<SubTexture name="Worried Stat0003" x="1106" y="743" width="553" height="743"/>
-	<SubTexture name="Worried Talk0000" x="553" y="743" width="553" height="743"/>
-	<SubTexture name="Worried Talk0001" x="553" y="743" width="553" height="743"/>
-	<SubTexture name="Worried Talk0002" x="1106" y="743" width="553" height="743"/>
-	<SubTexture name="Worried Talk0003" x="1106" y="743" width="553" height="743"/>
+	<SubTexture name="Mad Stat0000" x="0" y="0" width="579" height="780"/>
+	<SubTexture name="Mad Stat0001" x="0" y="0" width="579" height="780"/>
+	<SubTexture name="Mad Stat0002" x="0" y="0" width="579" height="780"/>
+	<SubTexture name="Mad Stat0003" x="0" y="0" width="579" height="780"/>
+	<SubTexture name="Mad Talk0000" x="579" y="0" width="579" height="780"/>
+	<SubTexture name="Mad Talk0001" x="579" y="0" width="579" height="780"/>
+	<SubTexture name="Mad Talk0002" x="0" y="0" width="579" height="780"/>
+	<SubTexture name="Mad Talk0003" x="0" y="0" width="579" height="780"/>
+	<SubTexture name="Stat0000" x="1158" y="0" width="579" height="780"/>
+	<SubTexture name="Stat0001" x="1158" y="0" width="579" height="780"/>
+	<SubTexture name="Stat0002" x="1158" y="0" width="579" height="780"/>
+	<SubTexture name="Stat0003" x="1158" y="0" width="579" height="780"/>
+	<SubTexture name="Talk0000" x="0" y="780" width="579" height="780"/>
+	<SubTexture name="Talk0001" x="0" y="780" width="579" height="780"/>
+	<SubTexture name="Talk0002" x="1158" y="0" width="579" height="780"/>
+	<SubTexture name="Talk0003" x="1158" y="0" width="579" height="780"/>
+	<SubTexture name="Worried Stat0000" x="579" y="780" width="579" height="780"/>
+	<SubTexture name="Worried Stat0001" x="579" y="780" width="579" height="780"/>
+	<SubTexture name="Worried Stat0002" x="579" y="780" width="579" height="780"/>
+	<SubTexture name="Worried Stat0003" x="579" y="780" width="579" height="780"/>
+	<SubTexture name="Worried Talk0000" x="1158" y="780" width="579" height="780"/>
+	<SubTexture name="Worried Talk0001" x="1158" y="780" width="579" height="780"/>
+	<SubTexture name="Worried Talk0002" x="579" y="780" width="579" height="780"/>
+	<SubTexture name="Worried Talk0003" x="579" y="780" width="579" height="780"/>
 </TextureAtlas>

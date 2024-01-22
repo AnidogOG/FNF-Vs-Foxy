@@ -5378,11 +5378,6 @@
 						183179.347826087,
 						3,
 						163.04347826087
-					],
-					[
-						183894.701086956,
-						2,
-						0
 					]
 				],
 				"altAnim": false,
@@ -5421,6 +5416,11 @@
 					],
 					[
 						185135.869565217,
+						2,
+						0
+					],
+					[
+						183913.043478261,
 						2,
 						0
 					]
@@ -12856,6 +12856,106 @@
 				"bpm": 184
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 184,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 184
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 184,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 184,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 184,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 184
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 184,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 184,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 184,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 184
+			},
+			{
 				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -12974,12 +13074,47 @@
 				]
 			],
 			[
+				131005.434782609,
+				[
+					[
+						"Lyrics",
+						"Disco Mode",
+						"ffffff"
+					]
+				]
+			],
+			[
+				131883.831521739,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				131902.173913044,
+				[
+					[
+						"Lyrics",
+						"Activate!",
+						"ffffff"
+					]
+				]
+			],
+			[
 				133043.47826087,
 				[
 					[
 						"Flash Camera",
 						"1",
 						""
+					],
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
 					]
 				]
 			],
@@ -12994,12 +13129,27 @@
 				]
 			],
 			[
+				174945.652173913,
+				[
+					[
+						"Lyrics",
+						"Wait What?!",
+						"ffffff"
+					]
+				]
+			],
+			[
 				175434.782608696,
 				[
 					[
 						"Change Character",
 						"1",
 						"explode"
+					],
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
 					]
 				]
 			],
@@ -13019,12 +13169,107 @@
 				]
 			],
 			[
+				176331.52173913,
+				[
+					[
+						"Lyrics",
+						"Fifi!",
+						"ffffff"
+					]
+				]
+			],
+			[
+				177044.836956522,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				177065.217391304,
+				[
+					[
+						"Lyrics",
+						"You dunce!",
+						"ffffff"
+					]
+				]
+			],
+			[
+				178104.619565217,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				178125,
+				[
+					[
+						"Lyrics",
+						"You don't know what you're messing with at this point!",
+						"ffffff"
+					]
+				]
+			],
+			[
+				180309.782608695,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				180326.086956522,
+				[
+					[
+						"Lyrics",
+						"The space time continuum is being shattered by Your sheer speed!",
+						"ffffff"
+					]
+				]
+			],
+			[
+				183906.929347826,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				183913.043478261,
+				[
+					[
+						"Lyrics",
+						"This is Your last chance to get out of the 3D World",
+						"ffffff"
+					]
+				]
+			],
+			[
 				186521.739130435,
 				[
 					[
 						"Flash Camera",
 						"1",
 						""
+					],
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
 					]
 				]
 			],
@@ -13045,6 +13290,11 @@
 						"Flash Camera",
 						"1",
 						""
+					],
+					[
+						"Image Fade In",
+						"WhiteIdk",
+						"10"
 					]
 				]
 			]

@@ -963,29 +963,9 @@ class PlayState extends MusicBeatState
 				{
 			}
 			case 'mineBg':
-				var bg:BGSprite = new BGSprite('daCoverz/MineBg', -400, -300, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('daCoverz/Mine', -400, -300, 0.9, 0.9);
 				add(bg);
 				{
-			}
-			case 'cheaterBg':
-			{
-				defaultCamZoom = 0.85;
-				curStage = 'cheaterBg';
-				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('daCoverz/CheaterVoid'));
-				bg.antialiasing = true;
-				bg.scrollFactor.set(0.6, 0.6);
-				bg.active = true;
-
-				add(bg);
-				#if windows
-				// below code assumes shaders are always enabled which is bad
-				var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
-				testshader.waveAmplitude = 0.1;
-				testshader.waveFrequency = 5;
-				testshader.waveSpeed = 2;
-				bg.shader = testshader.shader;
-				curbg = bg;
-				#end
 			}
 			case 'arcade':
 				var bg:BGSprite = new BGSprite('daCoverz/Arcade', -580, -160, 0.9, 0.9);
@@ -1052,7 +1032,7 @@ class PlayState extends MusicBeatState
 				add(clouds);
 				}
 			case 'jellyBg':
-				var bg:BGSprite = new BGSprite('daCoverz/JellyVoid', -600, -100, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('daCoverz/Atrocity', -600, -100, 0.9, 0.9);
 				add(bg);
 				{
 			}
@@ -1095,11 +1075,6 @@ class PlayState extends MusicBeatState
 				bg.shader = testshader.shader;
 				curbg = bg;
 				#end
-			}
-			case 'tricker':
-				var bg:BGSprite = new BGSprite('daCoverz/TrickyIsland', -600, -400, 0.9, 0.9);
-				add(bg);
-				{
 			}
 			case 'clubhouse':
 				var bg:BGSprite = new BGSprite('daCoverz/Clubhouse', -600, -400, 0.9, 0.9);
@@ -1171,11 +1146,6 @@ class PlayState extends MusicBeatState
 				curbg = bg;
 				#end
 			}
-			case 'sunk':
-				var bg:BGSprite = new BGSprite('daCoverz/SunkBg', -600, -400, 0.9, 0.9);
-				add(bg);
-				{
-			}
 			case 'xeno':
 				var bg:BGSprite = new BGSprite('daCoverz/XenoForest', -600, -400, 0.9, 0.9);
 				add(bg);
@@ -1228,8 +1198,8 @@ class PlayState extends MusicBeatState
 				    GrassCover.updateHitbox();
 				    add(GrassCover);
 				}
-			case 'circus':
-				var bg:BGSprite = new BGSprite('daCoverz/Circus', -600, -500, 0.9, 0.9);
+			case 'cave':
+				var bg:BGSprite = new BGSprite('daCoverz/Cave', -600, -500, 0.9, 0.9);
 				add(bg);
 				{
 			}
@@ -1300,6 +1270,218 @@ class PlayState extends MusicBeatState
 				}
 			case 'street':
 				var bg:BGSprite = new BGSprite('daCoverz/Street', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'disabled':
+			{
+				defaultCamZoom = 0.85;
+				curStage = 'disabled';
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('daCoverz/Disabled'));
+				bg.antialiasing = true;
+				bg.scrollFactor.set(0.6, 0.6);
+				bg.active = true;
+
+				add(bg);
+				#if windows
+				// below code assumes shaders are always enabled which is bad
+				var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
+				testshader.waveAmplitude = 0.1;
+				testshader.waveFrequency = 5;
+				testshader.waveSpeed = 2;
+				bg.shader = testshader.shader;
+				curbg = bg;
+				#end
+			}
+			case 'omelette':
+			{
+				defaultCamZoom = 0.85;
+				curStage = 'omelette';
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('daCoverz/Omelette'));
+				bg.antialiasing = true;
+				bg.scrollFactor.set(0.6, 0.6);
+				bg.active = true;
+
+				add(bg);
+				#if windows
+				// below code assumes shaders are always enabled which is bad
+				var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
+				testshader.waveAmplitude = 0.1;
+				testshader.waveFrequency = 5;
+				testshader.waveSpeed = 2;
+				bg.shader = testshader.shader;
+				curbg = bg;
+				#end
+			}
+			case 'zzzzzzzz':
+				var bg:BGSprite = new BGSprite('iykyk/zzzzzzzz', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'void':
+				var bg:BGSprite = new BGSprite('iykyk/Void', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'fest':
+				var bg:BGSprite = new BGSprite('daCoverz/Festival', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'shaggy':
+				var bg:BGSprite = new BGSprite('daCoverz/Shaggy', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'observe':
+				var bg:BGSprite = new BGSprite('daCoverz/Observatory', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'holiday':
+				var bg:BGSprite = new BGSprite('Holiday/sky', -600, -200, 0.9, 0.9);
+				add(bg);
+
+				var stars:BGSprite = new BGSprite('Holiday/stars', -600, -200, 0.9, 0.9);
+				    stars.setGraphicSize(Std.int(stars.width * 0.9));
+				    stars.updateHitbox();
+				    add(stars);
+				var snow:BGSprite = new BGSprite('Holiday/snow', -600, -200, 0.9, 0.9);
+				    snow.setGraphicSize(Std.int(snow.width * 0.9));
+				    snow.updateHitbox();
+				    add(snow);
+				{
+				var snowhouse:BGSprite = new BGSprite('Holiday/snowhouse', -600, -200, 0.9, 0.9);
+				    snowhouse.setGraphicSize(Std.int(snowhouse.width * 0.9));
+				    snowhouse.updateHitbox();
+				    add(snowhouse);
+				var tree:BGSprite = new BGSprite('Holiday/tree', -600, -200, 0.9, 0.9);
+				    tree.setGraphicSize(Std.int(tree.width * 0.9));
+				    tree.updateHitbox();
+				    add(tree);
+				}
+				case 'faker':
+				var bg:BGSprite = new BGSprite('daCoverz/Faker', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'rival':
+				var bg:BGSprite = new BGSprite('daCoverz/Rival', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'golden':
+			{
+				defaultCamZoom = 0.85;
+				curStage = 'golden';
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('daCoverz/Golden'));
+				bg.antialiasing = true;
+				bg.scrollFactor.set(0.6, 0.6);
+				bg.active = true;
+
+				add(bg);
+				#if windows
+				// below code assumes shaders are always enabled which is bad
+				var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
+				testshader.waveAmplitude = 0.1;
+				testshader.waveFrequency = 5;
+				testshader.waveSpeed = 2;
+				bg.shader = testshader.shader;
+				curbg = bg;
+				#end
+			}
+			case 'water':
+				var bg:BGSprite = new BGSprite('daCoverz/Water', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'peanut':
+				var bg:BGSprite = new BGSprite('daCoverz/Peanut', -600, -400, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'wii':
+				var bg:BGSprite = new BGSprite('daCoverz/Wii', -600, -200, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'template':
+				var bg:BGSprite = new BGSprite('Other/Template', -600, -200, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'thunder':
+				var bg:BGSprite = new BGSprite('daCoverz/Thunder', -600, -200, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'withered':
+				var bg:BGSprite = new BGSprite('daCoverz/Withered', -600, -200, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'onslaught':
+				var bg:BGSprite = new BGSprite('daCoverz/Onslaught', -600, -200, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'meta':
+			{
+				defaultCamZoom = 0.85;
+				curStage = 'meta';
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('daCoverz/Meta'));
+				bg.antialiasing = true;
+				bg.scrollFactor.set(0.6, 0.6);
+				bg.active = true;
+
+				add(bg);
+				#if windows
+				// below code assumes shaders are always enabled which is bad
+				var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
+				testshader.waveAmplitude = 0.1;
+				testshader.waveFrequency = 5;
+				testshader.waveSpeed = 2;
+				bg.shader = testshader.shader;
+				curbg = bg;
+				#end
+			}
+			case 'doggy':
+				var bg:BGSprite = new BGSprite('daCoverz/Doggy', -600, -200, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'ranovermydog':
+				var bg:BGSprite = new BGSprite('daCoverz/Backyard', -700, -300, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'bars':
+			{
+				defaultCamZoom = 0.85;
+				curStage = 'bars';
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('daCoverz/Bars'));
+				bg.antialiasing = true;
+				bg.scrollFactor.set(0.6, 0.6);
+				bg.active = true;
+
+				add(bg);
+				#if windows
+				// below code assumes shaders are always enabled which is bad
+				var testshader:Shaders.GlitchEffect = new Shaders.GlitchEffect();
+				testshader.waveAmplitude = 0.1;
+				testshader.waveFrequency = 5;
+				testshader.waveSpeed = 2;
+				bg.shader = testshader.shader;
+				curbg = bg;
+				#end
+			}
+			case 'tubes':
+				var bg:BGSprite = new BGSprite('daCoverz/Tubes', -500, -200, 0.9, 0.9);
+				add(bg);
+				{
+			}
+			case 'city':
+				var bg:BGSprite = new BGSprite('daCoverz/City', -500, -200, 0.9, 0.9);
 				add(bg);
 				{
 			}

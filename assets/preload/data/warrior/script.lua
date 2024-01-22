@@ -1,0 +1,10 @@
+function onCreate()
+	noteTweenX('opponent1', 0, -300, 0.1, 'linear')
+	noteTweenX('opponent2', 1, -300, 0.1, 'linear')
+	noteTweenX('opponent3', 2, -300, 0.1, 'linear')
+	noteTweenX('opponent4', 3, -300, 0.1, 'linear')
+	noteTweenX('player1', 4, 600, 0.1, 'linear')
+	noteTweenX('player2', 5, 710, 0.1, 'linear')
+	noteTweenX('player3', 6, 820, 0.1, 'linear')
+	noteTweenX('player4', 7, 930, 0.1, 'linear')
+end

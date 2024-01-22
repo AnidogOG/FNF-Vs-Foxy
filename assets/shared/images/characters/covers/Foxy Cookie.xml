@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Foxy Cookie.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FoxyDown0000" x="0" y="0" width="607" height="880" frameX="0" frameY="-34" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0001" x="0" y="0" width="607" height="880" frameX="0" frameY="-34" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0002" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0003" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0004" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0005" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0006" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0007" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0008" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyDown0009" x="607" y="0" width="595" height="914" frameX="-19" frameY="0" frameWidth="614" frameHeight="914"/>
+	<SubTexture name="FoxyIdle0000" x="1202" y="0" width="598" height="914" frameX="0" frameY="-20" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0001" x="1202" y="0" width="598" height="914" frameX="0" frameY="-20" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0002" x="1800" y="0" width="595" height="925" frameX="-2" frameY="-9" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0003" x="1800" y="0" width="595" height="925" frameX="-2" frameY="-9" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0004" x="2395" y="0" width="600" height="934" frameX="-11" frameY="0" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0005" x="2395" y="0" width="600" height="934" frameX="-11" frameY="0" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0006" x="2395" y="0" width="600" height="934" frameX="-11" frameY="0" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0007" x="2395" y="0" width="600" height="934" frameX="-11" frameY="0" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0008" x="2395" y="0" width="600" height="934" frameX="-11" frameY="0" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyIdle0009" x="2395" y="0" width="600" height="934" frameX="-11" frameY="0" frameWidth="611" frameHeight="934"/>
+	<SubTexture name="FoxyLeft0000" x="2995" y="0" width="616" height="936" frameX="0" frameY="0" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0001" x="2995" y="0" width="616" height="936" frameX="0" frameY="0" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0002" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0003" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0004" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0005" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0006" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0007" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0008" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyLeft0009" x="0" y="936" width="609" height="935" frameX="-24" frameY="-1" frameWidth="633" frameHeight="936"/>
+	<SubTexture name="FoxyRight0000" x="609" y="936" width="617" height="925" frameX="-43" frameY="-13" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0001" x="609" y="936" width="617" height="925" frameX="-43" frameY="-13" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0002" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0003" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0004" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0005" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0006" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0007" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0008" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyRight0009" x="1226" y="936" width="601" height="938" frameX="0" frameY="0" frameWidth="660" frameHeight="938"/>
+	<SubTexture name="FoxyUp0000" x="1827" y="936" width="632" height="945" frameX="-6" frameY="0" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0001" x="1827" y="936" width="632" height="945" frameX="-6" frameY="0" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0002" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0003" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0004" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0005" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0006" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0007" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0008" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+	<SubTexture name="FoxyUp0009" x="2459" y="936" width="626" height="940" frameX="0" frameY="-5" frameWidth="638" frameHeight="945"/>
+</TextureAtlas>

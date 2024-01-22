@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				-49,
+				-48,
 				80
 			],
 			"loop": false,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-162,
-				-34
+				-154,
+				-27
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				195,
-				39
+				145,
+				19
 			],
 			"indices": [],
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-138,
-				3
+				-139,
+				-30
 			],
 			"indices": [],
 			"fps": 24,
@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/extra/Fozghon",
 	"position": [
-		-110,
-		-20
+		-220,
+		0
 	],
 	"healthicon": "fozghon",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		205
 	],
 	"camera_position": [
-		20,
-		70
+		0,
+		-10
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -1,128 +1,154 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				110,
 				90
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Denna Idle"
-		},
-		{
-			"offsets": [
-				185,
-				92
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Denna Left0"
+			"name": "Denna Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				146,
+				171,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Denna Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
 				53
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Denna Down0"
+			"fps": 24,
+			"name": "Denna Down0",
+			"indices": []
 		},
 		{
-			"offsets": [
-				138,
-				119
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				119,
+				125
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Denna Up0"
+			"fps": 24,
+			"name": "Denna Up0",
+			"indices": []
 		},
 		{
-			"offsets": [
-				149,
-				85
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				126,
+				90
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Denna Right0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				183,
-				93
-			],
-			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "Denna Left Miss",
+			"name": "Denna Right0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				147,
-				92
+				103,
+				117
 			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Denna Down Miss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				136,
-				120
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "Denna Up Miss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				145,
-				86
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "Denna Right Miss",
-			"indices": []
-		},
-		{
-			"offsets": [
-				110,
-				111
-			],
-			"indices": [],
-			"fps": 24,
 			"anim": "hey",
+			"fps": 24,
+			"name": "Denna Hey",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "Denna Hey"
+			"offsets": [
+				103,
+				117
+			],
+			"anim": "hi",
+			"fps": 24,
+			"name": "Denna Hi",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38,
+				38
+			]
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/main/Denna",
 	"position": [
 		120,
-		40
+		20
 	],
 	"healthicon": "denna",
 	"flip_x": false,
 	"healthbar_colors": [
-		108,
-		72,
-		38
+		126,
+		85,
+		44
 	],
 	"camera_position": [
 		120,

@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-3,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				22,
-				4
+				24,
+				2
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left Guitar",
-			"indices": []
+			"indices": [],
+			"name": "Left Guitar"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
-				-3
+				-6
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down Guitar",
-			"indices": []
+			"indices": [],
+			"name": "Down Guitar"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				27
+				14,
+				29
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Up Guitar",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Guitar"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-24,
 				-7
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Right Guitar",
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Guitar"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				2
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left Talk",
 			"indices": []
 		},
 		{
-			"offsets": [
-				22,
-				4
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT-alt",
 			"loop": false,
-			"name": "Left Talk"
-		},
-		{
 			"offsets": [
 				2,
-				-3
+				-6
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"loop": false,
-			"name": "Down Talk"
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
-			"indices": [],
 			"fps": 24,
-			"anim": "singUP-alt",
-			"loop": false,
-			"name": "Up Talk"
+			"name": "Down Talk",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				14,
+				29
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Talk",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				-24,
 				-7
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"loop": false,
-			"name": "Right Talk"
+			"fps": 24,
+			"name": "Right Talk",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

@@ -1,11 +1,11 @@
 {
+	"confirm_anim": "M Dad Idle",
 	"idle_anim": "Idle",
-	"image": "Menu_Denna",
 	"position": [
-		177,
-		325
+		160,
+		338
 	],
-	"flipX": false,
-	"scale": 0.38,
-	"confirm_anim": "M Dad Idle"
+	"scale": 0.36,
+	"image": "Menu_Denna",
+	"flipX": false
 }

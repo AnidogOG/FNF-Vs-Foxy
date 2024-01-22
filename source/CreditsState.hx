@@ -103,10 +103,7 @@ class CreditsState extends MusicBeatState
 			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",							'https://twitter.com/kawaisprite',		'6475F3'],
 			[''],
 			["Vs Foxy Creator"],
-			['Dinner Doggo',		'dinnerdoggo',	    "Coder, Animator, Artist and Composer for the entire mod",	'https://www.youtube.com/@DinnerDoggo',	'ffffff'],
-			[''],
-			["Gallery Creator"],
-			['SquidBowl',			'tinka',			"Created The Really Cool Gallery Thing",					'https://www.youtube.com/@squidbowl',	'4a2e2a'],
+			['Dinner Doggo',		'dinnerdoggo',	    "Coder, Animator, Artist and Composer for the entire mod",	'https://www.youtube.com/@DinnerDoggo',	'ffffff']
 		];
 		
 		for(i in pisspoop){

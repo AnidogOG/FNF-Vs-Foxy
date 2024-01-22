@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FoxyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FoxyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FoxyDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FoxyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FoxyRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/covers/Foxy Cookie",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "foxy-cookie",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		127,
+		0
+	],
+	"camera_position": [
+		40,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

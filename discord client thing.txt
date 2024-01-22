@@ -1,7 +1,0 @@
-#if desktop
-import Discord.DiscordClient;
-#end
-
- #if desktop
-        DiscordClient.changePresence("In the", null);
-        #end

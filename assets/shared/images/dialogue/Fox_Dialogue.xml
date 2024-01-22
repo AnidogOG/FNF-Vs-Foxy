@@ -2,20 +2,20 @@
 <TextureAtlas imagePath="Fox_Dialogue.png">
 	<!-- Created with Adobe Animate version 22.0.3.179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Mad Stat0000" x="583" y="0" width="583" height="826"/>
-	<SubTexture name="Mad Stat0001" x="583" y="0" width="583" height="826"/>
-	<SubTexture name="Mad Stat0002" x="583" y="0" width="583" height="826"/>
-	<SubTexture name="Mad Stat0003" x="583" y="0" width="583" height="826"/>
-	<SubTexture name="Mad Talk0000" x="0" y="0" width="583" height="826"/>
-	<SubTexture name="Mad Talk0001" x="0" y="0" width="583" height="826"/>
-	<SubTexture name="Mad Talk0002" x="583" y="0" width="583" height="826"/>
-	<SubTexture name="Mad Talk0003" x="583" y="0" width="583" height="826"/>
-	<SubTexture name="Stat0000" x="1166" y="0" width="583" height="826"/>
-	<SubTexture name="Stat0001" x="1166" y="0" width="583" height="826"/>
-	<SubTexture name="Stat0002" x="1166" y="0" width="583" height="826"/>
-	<SubTexture name="Stat0003" x="1166" y="0" width="583" height="826"/>
-	<SubTexture name="Talk0000" x="0" y="826" width="583" height="826"/>
-	<SubTexture name="Talk0001" x="0" y="826" width="583" height="826"/>
-	<SubTexture name="Talk0002" x="1166" y="0" width="583" height="826"/>
-	<SubTexture name="Talk0003" x="1166" y="0" width="583" height="826"/>
+	<SubTexture name="Mad Stat0000" x="0" y="0" width="605" height="853"/>
+	<SubTexture name="Mad Stat0001" x="0" y="0" width="605" height="853"/>
+	<SubTexture name="Mad Stat0002" x="0" y="0" width="605" height="853"/>
+	<SubTexture name="Mad Stat0003" x="0" y="0" width="605" height="853"/>
+	<SubTexture name="Mad Talk0000" x="605" y="0" width="605" height="853"/>
+	<SubTexture name="Mad Talk0001" x="605" y="0" width="605" height="853"/>
+	<SubTexture name="Mad Talk0002" x="0" y="0" width="605" height="853"/>
+	<SubTexture name="Mad Talk0003" x="0" y="0" width="605" height="853"/>
+	<SubTexture name="Stat0000" x="1210" y="0" width="605" height="853"/>
+	<SubTexture name="Stat0001" x="1210" y="0" width="605" height="853"/>
+	<SubTexture name="Stat0002" x="1210" y="0" width="605" height="853"/>
+	<SubTexture name="Stat0003" x="1210" y="0" width="605" height="853"/>
+	<SubTexture name="Talk0000" x="0" y="853" width="605" height="853"/>
+	<SubTexture name="Talk0001" x="0" y="853" width="605" height="853"/>
+	<SubTexture name="Talk0002" x="1210" y="0" width="605" height="853"/>
+	<SubTexture name="Talk0003" x="1210" y="0" width="605" height="853"/>
 </TextureAtlas>

@@ -3,7 +3,7 @@
 	"difficulties": "Hard",
 	"hideFreeplay": true,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
+	"weekBefore": "",
 	"startUnlocked": true,
 	"songs": [
 		[

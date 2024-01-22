@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "IDLE"
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-194,
 				-24
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "LEFT gf"
+			"fps": 24,
+			"name": "LEFT gf",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-157,
 				-61
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "DOWN gf"
+			"fps": 24,
+			"name": "DOWN gf",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-145,
 				42
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "UP gf"
+			"fps": 24,
+			"name": "UP gf",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-156,
 				-23
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "RIGHT gf"
+			"fps": 24,
+			"name": "RIGHT gf",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				-86
 			],
-			"anim": "singLEFT-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "LEFT Cloud",
-			"indices": []
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "LEFT Cloud"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-42,
 				-93
 			],
-			"anim": "singDOWN-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "DOWN Cloud",
-			"indices": []
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "DOWN Cloud"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-40,
 				-86
 			],
-			"anim": "singUP-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "UP Cloud",
-			"indices": []
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "UP Cloud"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-214,
 				-68
 			],
-			"anim": "singRIGHT-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "RIGHT Cloud",
-			"indices": []
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "RIGHT Cloud"
 		}
 	],
 	"no_antialiasing": false,

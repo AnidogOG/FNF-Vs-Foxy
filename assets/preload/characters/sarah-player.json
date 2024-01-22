@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				-3,
 				0
 			],
 			"anim": "idle",
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				135,
-				-30
+				37,
+				-3
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				76,
-				25
+				-11,
+				48
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				230,
-				-3
+				23,
+				8
 			],
 			"indices": [],
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				20
+				-6,
+				10
 			],
 			"indices": [],
 			"fps": 24,
@@ -57,22 +57,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/main/Sarah",
+	"image": "characters/covers/Sarah 2D",
 	"position": [
-		160,
-		80
+		40,
+		-80
 	],
-	"healthicon": "sarah",
+	"healthicon": "sarah-2d",
 	"flip_x": false,
 	"healthbar_colors": [
-		59,
-		59,
-		59
+		61,
+		61,
+		61
 	],
 	"camera_position": [
-		210,
-		20
+		140,
+		40
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.9
 }

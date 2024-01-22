@@ -35,16 +35,22 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		'gallery',
 		#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
-		#if !switch 'donate', #end
 		'options'
 	];
 
 	var magenta:FlxSprite;
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
+
+		public static var bgPaths:Array<String> = 
+	[
+		'backgrounds/KattieWFoxy',
+		'backgrounds/DennaWDiego',
+		'backgrounds/Sophie',
+	];
+
 	var debugKeys:Array<FlxKey>;
 
 	override function create()
@@ -79,10 +85,30 @@ class MainMenuState extends MusicBeatState
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
 
+		var yScroll:Float = Math.max(0.25 - (0.05 * (optionShit.length - 4)), 0.1);
+		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(randomizeBG());
+		bg.scrollFactor.set(0, yScroll);
+		bg.setGraphicSize(Std.int(bg.width * 1.175));
+		bg.updateHitbox();
+		bg.screenCenter();
+		bg.antialiasing = true;
+		bg.color = 0xFFFDE871;
+		add(bg);
+
 		camFollow = new FlxObject(0, 0, 1, 1);
 		camFollowPos = new FlxObject(0, 0, 1, 1);
 		add(camFollow);
 		add(camFollowPos);
+
+		magenta = new FlxSprite(-80).loadGraphic(bg.graphic);
+		magenta.scrollFactor.set();
+		magenta.setGraphicSize(Std.int(magenta.width * 1.1));
+		magenta.updateHitbox();
+		magenta.screenCenter();
+		magenta.visible = false;
+		magenta.antialiasing = true;
+		magenta.color = 0xFFFDE871;
+		add(magenta);
 
 		magenta = new FlxSprite(-80).loadGraphic(Paths.image('menuDesat'));
 		magenta.scrollFactor.set(0, yScroll);
@@ -91,7 +117,7 @@ class MainMenuState extends MusicBeatState
 		magenta.screenCenter();
 		magenta.visible = false;
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
-		magenta.color = 0xFFfd719b;
+		magenta.color = 0xFFFDE871;
 		add(magenta);
 		
 		// magenta.scrollFactor.set();
@@ -235,8 +261,6 @@ class MainMenuState extends MusicBeatState
 									case 'mods':
 										MusicBeatState.switchState(new ModsMenuState());
 									#end
-									case 'gallery':
-										MusicBeatState.switchState(new GalleryState());
 									case 'awards':
 										MusicBeatState.switchState(new AchievementsMenuState());
 									case 'credits':
@@ -292,4 +316,13 @@ class MainMenuState extends MusicBeatState
 			}
 		});
 	}
+	public static function randomizeBG():flixel.system.FlxAssets.FlxGraphicAsset
+
+{
+
+var chance:Int = FlxG.random.int(0, bgPaths.length - 1);
+
+return Paths.image(bgPaths[chance]);
+
+}
 }

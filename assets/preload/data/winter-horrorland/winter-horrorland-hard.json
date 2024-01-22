@@ -1,40 +1,741 @@
 {
 	"song": {
 		"player1": "fifi-player",
-		"player2": "yuki",
+		"events": [
+			[
+				9433.96226415094,
+				[
+					[
+						"Lyrics",
+						"Your skin is freezing",
+						"ffffff"
+					]
+				]
+			],
+			[
+				12433.9622641509,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				12452.8301886792,
+				[
+					[
+						"Lyrics",
+						"Here let me help you take it off",
+						"ffffff"
+					]
+				]
+			],
+			[
+				15943.3962264151,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				21132.0754716981,
+				[
+					[
+						"Lyrics",
+						"Feasting with your friends",
+						"ffffff"
+					]
+				]
+			],
+			[
+				23183.9622641509,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				23207.5471698113,
+				[
+					[
+						"Lyrics",
+						"What a perfect way to end",
+						"ffffff"
+					]
+				]
+			],
+			[
+				24507.0754716981,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				24528.3018867924,
+				[
+					[
+						"Lyrics",
+						"All these lonely holidays",
+						"ffffff"
+					]
+				]
+			],
+			[
+				26200.4716981132,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				26226.4150943396,
+				[
+					[
+						"Lyrics",
+						"La la la la",
+						"ffffff"
+					]
+				]
+			],
+			[
+				27169.8113207547,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				33396.2264150943,
+				[
+					[
+						"Lyrics",
+						"Gonna take a piece of you rabies",
+						"ffffff"
+					]
+				]
+			],
+			[
+				36384.4339622641,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				36415.0943396226,
+				[
+					[
+						"Lyrics",
+						"And vivisect your mind",
+						"ffffff"
+					]
+				]
+			],
+			[
+				38113.2075471698,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				45283.0188679245,
+				[
+					[
+						"Lyrics",
+						"Snowman smiling with your teeth",
+						"ffffff"
+					]
+				]
+			],
+			[
+				48285.3773584905,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				48301.8867924528,
+				[
+					[
+						"Lyrics",
+						"Fallen angles created with your meat",
+						"ffffff"
+					]
+				]
+			],
+			[
+				51320.7547169811,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				53207.5471698113,
+				[
+					[
+						"Lyrics",
+						"That pearly smile",
+						"ffffff"
+					]
+				]
+			],
+			[
+				55849.0566037735,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				57547.1698113207,
+				[
+					[
+						"Lyrics",
+						"Cut, in a thousand slices",
+						"ffffff"
+					]
+				]
+			],
+			[
+				58849.0566037735,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				58867.9245283018,
+				[
+					[
+						"Lyrics",
+						"Bake you 'til, golden brown",
+						"ffffff"
+					]
+				]
+			],
+			[
+				60377.358490566,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				63396.2264150943,
+				[
+					[
+						"Lyrics",
+						"Stuff you with spices",
+						"ffffff"
+					]
+				]
+			],
+			[
+				65283.0188679245,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				66415.0943396226,
+				[
+					[
+						"Lyrics",
+						"Serve to friends around",
+						"ffffff"
+					]
+				]
+			],
+			[
+				68584.9056603773,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				69622.6415094339,
+				[
+					[
+						"Lyrics",
+						"Separate, you from your eyes",
+						"ffffff"
+					]
+				]
+			],
+			[
+				71106.1320754717,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				71132.0754716981,
+				[
+					[
+						"Lyrics",
+						"Turn your girlfriend inside out",
+						"ffffff"
+					]
+				]
+			],
+			[
+				72224.0566037736,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				72264.1509433962,
+				[
+					[
+						"Lyrics",
+						"And burn her fingernails",
+						"ffffff"
+					]
+				]
+			],
+			[
+				74504.716981132,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				74528.3018867924,
+				[
+					[
+						"Lyrics",
+						"La la la la",
+						"ffffff"
+					]
+				]
+			],
+			[
+				75471.6981132075,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				81509.4339622642,
+				[
+					[
+						"Lyrics",
+						"Soak your hands in freezing water",
+						"ffffff"
+					]
+				]
+			],
+			[
+				83018.8679245283,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				84528.3018867925,
+				[
+					[
+						"Lyrics",
+						"Watching as the skin gets softer",
+						"ffffff"
+					]
+				]
+			],
+			[
+				86037.7358490566,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				87547.1698113208,
+				[
+					[
+						"Lyrics",
+						"See your bones appear in dark red snow",
+						"ffffff"
+					]
+				]
+			],
+			[
+				90188.6792452831,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				90566.0377358491,
+				[
+					[
+						"Lyrics",
+						"Drop further below",
+						"ffffff"
+					]
+				]
+			],
+			[
+				93490.5660377359,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				93773.5849056604,
+				[
+					[
+						"Lyrics",
+						"Gonna take a piece of your rabies",
+						"ffffff"
+					]
+				]
+			],
+			[
+				96773.5849056604,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				96792.4528301887,
+				[
+					[
+						"Lyrics",
+						"And vivisect your mind",
+						"ffffff"
+					]
+				]
+			],
+			[
+				98679.2452830189,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				99811.320754717,
+				[
+					[
+						"Lyrics",
+						"Gonna take a peak inside your head",
+						"ffffff"
+					]
+				]
+			],
+			[
+				102622.641509434,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				102641.509433962,
+				[
+					[
+						"Lyrics",
+						"And find the worm inside",
+						"ffffff"
+					]
+				]
+			],
+			[
+				104716.981132076,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				105849.056603774,
+				[
+					[
+						"Lyrics",
+						"Cut, in a thousand slices",
+						"ffffff"
+					]
+				]
+			],
+			[
+				107146.226415094,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				107169.811320755,
+				[
+					[
+						"Lyrics",
+						"Bake you 'til, golden brown",
+						"ffffff"
+					]
+				]
+			],
+			[
+				108679.245283019,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				111698.113207547,
+				[
+					[
+						"Lyrics",
+						"Fill you with spices",
+						"ffffff"
+					]
+				]
+			],
+			[
+				113962.264150944,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				114716.981132076,
+				[
+					[
+						"Lyrics",
+						"Serve to friends around",
+						"ffffff"
+					]
+				]
+			],
+			[
+				116886.79245283,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				117924.528301887,
+				[
+					[
+						"Lyrics",
+						"Turn the heat on high and",
+						"ffffff"
+					]
+				]
+			],
+			[
+				119221.698113208,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				119245.283018868,
+				[
+					[
+						"Lyrics",
+						"We'll reduce your blood",
+						"ffffff"
+					]
+				]
+			],
+			[
+				121603.773584906,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				123773.584905661,
+				[
+					[
+						"Lyrics",
+						"Boil 'lil Boyfriend",
+						"ffffff"
+					]
+				]
+			],
+			[
+				126037.735849057,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			],
+			[
+				126792.452830189,
+				[
+					[
+						"Lyrics",
+						"With brandy and plums",
+						"ffffff"
+					]
+				]
+			],
+			[
+				129056.603773585,
+				[
+					[
+						"Lyrics",
+						"/delete",
+						"ffffff"
+					]
+				]
+			]
+		],
+		"gfVersion": "foxy-gf",
 		"notes": [
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						9433.962,
@@ -52,10 +753,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						10566.0381,
@@ -68,10 +769,10 @@
 						566.0377
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						12452.83,
@@ -89,10 +790,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						13584.9053,
@@ -115,10 +816,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						15094.34,
@@ -141,10 +842,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						16603.7734,
@@ -157,10 +858,10 @@
 						660.3774
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						18490.5664,
@@ -178,10 +879,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						19622.64,
@@ -204,10 +905,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						21132.0762,
@@ -235,10 +936,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						22641.51,
@@ -276,10 +977,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						24150.9434,
@@ -317,10 +1018,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						25660.377,
@@ -348,10 +1049,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						27169.81,
@@ -374,10 +1075,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						28679.2461,
@@ -415,10 +1116,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						30188.68,
@@ -456,10 +1157,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						31698.1133,
@@ -487,10 +1188,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						33396.2266,
@@ -523,10 +1224,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						35094.34,
@@ -544,10 +1245,10 @@
 						283.018867924528
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						36415.0938,
@@ -575,10 +1276,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						37735.8477,
@@ -586,10 +1287,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						39433.96,
@@ -622,10 +1323,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						41132.0742,
@@ -638,10 +1339,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						42452.832,
@@ -669,10 +1370,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						43773.5859,
@@ -680,10 +1381,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						45283.02,
@@ -716,10 +1417,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						46792.4531,
@@ -742,10 +1443,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						48301.8867,
@@ -788,10 +1489,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						49937.1055,
@@ -809,10 +1510,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						51320.7539,
@@ -845,10 +1546,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						52830.1875,
@@ -871,10 +1572,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						54339.62,
@@ -917,10 +1618,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						56037.7344,
@@ -938,10 +1639,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						57547.168,
@@ -979,10 +1680,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						58867.9258,
@@ -1015,10 +1716,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						60566.04,
@@ -1056,10 +1757,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						61886.793,
@@ -1092,10 +1793,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						63396.2266,
@@ -1123,10 +1824,10 @@
 						283.018867924528
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						64905.66,
@@ -1164,10 +1865,10 @@
 						283.018867924528
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						66415.09,
@@ -1220,15 +1921,15 @@
 						754.717
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						69622.64,
@@ -1266,10 +1967,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						71132.08,
@@ -1312,10 +2013,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						72452.83,
@@ -1343,10 +2044,10 @@
 						566.0377
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						74528.3047,
@@ -1369,10 +2070,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						75660.375,
@@ -1410,10 +2111,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						77169.81,
@@ -1456,10 +2157,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						78490.56,
@@ -1487,10 +2188,10 @@
 						566.0377
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						80566.04,
@@ -1513,10 +2214,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						81509.44,
@@ -1559,10 +2260,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						83018.87,
@@ -1605,10 +2306,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						84528.3047,
@@ -1651,10 +2352,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						86037.7344,
@@ -1697,10 +2398,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						87547.17,
@@ -1748,10 +2449,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						89056.6,
@@ -1789,10 +2490,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						90566.04,
@@ -1815,10 +2516,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						92075.47,
@@ -1841,10 +2542,10 @@
 						566.0377
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						93773.5859,
@@ -1902,10 +2603,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						95283.0156,
@@ -1938,10 +2639,10 @@
 						283.018867924528
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						96603.77,
@@ -1994,10 +2695,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						98113.21,
@@ -2015,10 +2716,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						99811.32,
@@ -2081,10 +2782,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						101320.758,
@@ -2112,10 +2813,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						103207.547,
@@ -2163,10 +2864,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						104150.945,
@@ -2184,10 +2885,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						105849.055,
@@ -2225,10 +2926,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						107169.813,
@@ -2261,10 +2962,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						108867.922,
@@ -2302,10 +3003,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						110188.68,
@@ -2338,10 +3039,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						111698.109,
@@ -2369,10 +3070,10 @@
 						283.018867924528
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						113207.547,
@@ -2410,10 +3111,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						114716.984,
@@ -2466,15 +3167,15 @@
 						754.717
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						117924.531,
@@ -2507,10 +3208,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						119245.281,
@@ -2533,10 +3234,10 @@
 						283.01886
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						120754.719,
@@ -2574,10 +3275,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						122264.148,
@@ -2600,10 +3301,10 @@
 						754.717
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						124150.945,
@@ -2636,10 +3337,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						125283.016,
@@ -2677,10 +3378,10 @@
 						283.018867924528
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						126792.453,
@@ -2733,10 +3434,10 @@
 						377.3585
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						129056.6,
@@ -2759,10 +3460,10 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						129811.32,
@@ -2770,11 +3471,22 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 159,
+				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
@@ -2796,16 +3508,45 @@
 				"bpm": 159,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 159,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 159,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 159,
+				"changeBPM": false,
+				"mustHitSection": true
 			}
 		],
-		"gfVersion": "foxy-gf",
-		"events": [],
+		"player2": "yuki",
 		"player3": null,
 		"song": "Winter Horrorland",
-		"validScore": true,
-		"needsVoices": true,
 		"stage": "mallEvil",
-		"speed": 1.3,
-		"bpm": 159
+		"needsVoices": true,
+		"validScore": true,
+		"bpm": 159,
+		"speed": 1.3
 	}
 }

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sophie Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				24,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sophie Left"
+		},
+		{
+			"offsets": [
+				-14,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sophie Down"
+		},
+		{
+			"offsets": [
+				-5,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sophie Up"
+		},
+		{
+			"offsets": [
+				-17,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sophie Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/covers/Sophie Cookie",
+	"position": [
+		-60,
+		120
+	],
+	"healthicon": "sophie-cookie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		247,
+		198
+	],
+	"camera_position": [
+		200,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
