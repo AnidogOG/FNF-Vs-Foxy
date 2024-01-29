@@ -63,7 +63,7 @@ class FreeplayState extends MusicBeatState
 				case 'funny':
 					addWeek(['Chill', 'Kitten', 'Cheteetetettttttt', 'Forever Dvae', 'Apple', 'Lolers'], 0, 0xff00c3ff, ['bami', 'kat', 'denna', 'dvae', 'banwho', 'foxy-gay']);
 				case 'if you know you know':
-				    addWeek(['Copycat', 'Lustful', 'Multiversal', 'Potential', 'Gacha!', 'Pretty Boy', 'Deranged Kisser', 'Restored'], 0, 0xff00c3ff, ['joshua', 'fifi', 'yuki', 'kattie-old', 'gacha-foxy', 'reggie', 'boykisser', 'foxy-gay']);
+				    addWeek(['Copycat', 'Lustful', 'Multiversal', 'Potential', 'Gacha!', 'Pretty Boy', 'Deranged Kisser', 'Restored'], 0, 0xff00c3ff, ['joshua', 'fifi', 'yuki', 'kattie-old', 'gacha-foxy', 'reggie', 'boykisser', 'foxy-old']);
 				case 'base':
 				    addWeek(['Tutorial'], 0, 0xff00c3ff, ['gf']);
 				case 'covers':
