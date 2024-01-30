@@ -98,10 +98,10 @@ class Note extends FlxSprite
 
 		if(noteData > -1 && noteType != value) {
 			switch(value) {
-				case 'Shock Note':
+				case 'Ruler Note':
 					ignoreNote = mustPress;
-					reloadNote('SHOCK');
-					noteSplashTexture = 'noteSplashesPurple';
+					reloadNote('RULER');
+					noteSplashTexture = 'noteSplashesRuler';
 					colorSwap.hue = 0;
 					colorSwap.saturation = 0;
 					colorSwap.brightness = 0;

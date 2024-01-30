@@ -343,7 +343,7 @@ class CharacterEditorState extends MusicBeatState
 					"fps": 24,
 					"anim": "idle",
 					"indices": [],
-					"name": "Dad idle dance"
+					"name": "Idle"
 				},
 				{
 					"offsets": [
@@ -354,7 +354,7 @@ class CharacterEditorState extends MusicBeatState
 					"fps": 24,
 					"anim": "singLEFT",
 					"loop": false,
-					"name": "Dad Sing Note LEFT"
+					"name": "Left"
 				},
 				{
 					"offsets": [
@@ -365,7 +365,7 @@ class CharacterEditorState extends MusicBeatState
 					"fps": 24,
 					"anim": "singDOWN",
 					"loop": false,
-					"name": "Dad Sing Note DOWN"
+					"name": "Down"
 				},
 				{
 					"offsets": [
@@ -376,7 +376,7 @@ class CharacterEditorState extends MusicBeatState
 					"fps": 24,
 					"anim": "singUP",
 					"loop": false,
-					"name": "Dad Sing Note UP"
+					"name": "Up"
 				},
 				{
 					"offsets": [
@@ -387,28 +387,28 @@ class CharacterEditorState extends MusicBeatState
 					"fps": 24,
 					"anim": "singRIGHT",
 					"loop": false,
-					"name": "Dad Sing Note RIGHT"
+					"name": "Right"
 				}
 			],
 			"no_antialiasing": false,
-			"image": "characters/DADDY_DEAREST",
+			"image": "characters/main/Foxy",
 			"position": [
 				0,
 				0
 			],
-			"healthicon": "face",
+			"healthicon": "foxy",
 			"flip_x": false,
 			"healthbar_colors": [
-				161,
-				161,
-				161
+				255,
+				127,
+				0
 			],
 			"camera_position": [
 				0,
 				0
 			],
-			"sing_duration": 6.1,
-			"scale": 1
+			"sing_duration": 4,
+			"scale": 0.6
 		}';
 
 	var charDropDown:FlxUIDropDownMenuCustom;
