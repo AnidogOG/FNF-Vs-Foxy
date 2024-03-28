@@ -1405,11 +1405,6 @@ class PlayState extends MusicBeatState
 				add(bg);
 				{
 			}
-			case 'template':
-				var bg:BGSprite = new BGSprite('Other/Template', -600, -200, 0.9, 0.9);
-				add(bg);
-				{
-			}
 			case 'thunder':
 				var bg:BGSprite = new BGSprite('daCoverz/Thunder', -600, -200, 0.9, 0.9);
 				add(bg);
